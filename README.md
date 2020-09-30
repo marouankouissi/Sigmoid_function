@@ -1,2 +1,2 @@
 # Sigmoid_function
-The use of Segmoid function to model dataset.
+The use of Segmoid function to model dataset with Python
